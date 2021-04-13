@@ -1,2 +1,0 @@
-Hello NodeJS
-This is hello file
